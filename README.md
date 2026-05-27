@@ -67,13 +67,6 @@
 | **協業ツール** | Figma, GitHub, Notion, TestFlight |
 
 ---
-##📱 実装画面
-![ios 6.7형.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b518ec18-e96b-4a6f-8124-e85cbc32181c/b7ff710a-503b-42f5-ab06-4fcc1f5e9ea8/ios_6.7%E1%84%92%E1%85%A7%E1%86%BC.png)
-
-![6.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b518ec18-e96b-4a6f-8124-e85cbc32181c/7ec321e2-694c-42bb-afa1-570735100c8a/6.png)
-
-![ios 6.7형2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b518ec18-e96b-4a6f-8124-e85cbc32181c/2c80105e-8626-42c5-a91b-7f2714f4e390/ios_6.7%E1%84%92%E1%85%A7%E1%86%BC2.png)
----
 ## 🏗 アーキテクチャ
 
 ```
@@ -208,14 +201,6 @@ iOSパートはイ・ジェヒョンが単独で全て担当しました。
 | **클라우드** | Google Cloud |
 | **협업** | Figma, GitHub, Notion, TestFlight |
 
----
-
-##📱 실행화면 
-![ios 6.7형.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b518ec18-e96b-4a6f-8124-e85cbc32181c/b7ff710a-503b-42f5-ab06-4fcc1f5e9ea8/ios_6.7%E1%84%92%E1%85%A7%E1%86%BC.png)
-
-![6.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b518ec18-e96b-4a6f-8124-e85cbc32181c/7ec321e2-694c-42bb-afa1-570735100c8a/6.png)
-
-![ios 6.7형2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b518ec18-e96b-4a6f-8124-e85cbc32181c/2c80105e-8626-42c5-a91b-7f2714f4e390/ios_6.7%E1%84%92%E1%85%A7%E1%86%BC2.png)
 ---
 
 ## 🏗 아키텍처
