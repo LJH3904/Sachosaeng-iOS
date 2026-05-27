@@ -6,9 +6,13 @@
 <p align="left">
 <img src="[https://img.shields.io/badge/App_Store-リリース済み-0D96F6?style=flat&logo=apple&logoColor=white](https://img.shields.io/badge/App_Store-%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%B8%88%E3%81%BF-0D96F6?style=flat&logo=apple&logoColor=white)"/>
 </p>
+
 ![Swift](https://img.shields.io/badge/Swift-5.9-F05138?style=flat&logo=swift&logoColor=white)
+
 ![Xcode](https://img.shields.io/badge/Xcode-15.0-147EFB?style=flat&logo=xcode&logoColor=white)
+
 ![iOS](https://img.shields.io/badge/iOS-16.0+-000000?style=flat&logo=apple&logoColor=white)
+
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0075FF?style=flat&logo=swift&logoColor=white)
 
 ---
@@ -141,9 +145,13 @@ iOSパートはイ・ジェヒョンが単独で全て担当しました。
 <p align="left">
 <img src="[https://img.shields.io/badge/App_Store-출시완료-0D96F6?style=flat&logo=apple&logoColor=white](https://img.shields.io/badge/App_Store-%EC%B6%9C%EC%8B%9C%EC%99%84%EB%A3%8C-0D96F6?style=flat&logo=apple&logoColor=white)"/>
 </p>
+
 ![Swift](https://img.shields.io/badge/Swift-5.9-F05138?style=flat&logo=swift&logoColor=white)
+
 ![Xcode](https://img.shields.io/badge/Xcode-15.0-147EFB?style=flat&logo=xcode&logoColor=white)
+
 ![iOS](https://img.shields.io/badge/iOS-16.0+-000000?style=flat&logo=apple&logoColor=white)
+
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0075FF?style=flat&logo=swift&logoColor=white)
 
 ---
